@@ -1,4 +1,4 @@
-import { loader } from './main.js';
+import { loader } from '../main';
 
 const BASE_URL = 'https://pixabay.com/api/';
 
